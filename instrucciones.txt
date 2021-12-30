@@ -1,0 +1,20 @@
+El proyecto esta realizado en codefirst. realice los siguientes pasos para realizar la migracion.
+--------------------------------
+en sql server management studio |
+--------------------------------
+
+1. crear una nueva base de datos vacia con el siguiente nombre: DbGenericApp
+
+-----------------
+en visual studio |
+-----------------
+1. abra el archivo con "appsettings.dev" y cambiar los datos necesarios para la conexion a la base de datos.
+2. abra el archivo CoreContext.cs
+3. descomente la linea 101 del este archivo y cambiar los datos necesarios para la conexion a la base de datos.
+4. comente la lines 102 de este archivo.
+5. abra la consola desde Tools/Nuget Package Manager/ Package Manager Console
+6. en la consola de nuget realizar lo siguiente
+7. update-database para actualizar la bd
+8. cuando finalice la migracion de la bd, vuelva a comentar la linea 101 y a descomentar la linea 102
+9. ya puede ejecurar el proyecto desde consola con "dotnet run" o desde el VS, recuerde establecer el proyecto de
+   "generic.app.api" como inicial de la solucion.
