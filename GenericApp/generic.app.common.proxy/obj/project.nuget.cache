@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCYXR/MK3g5S58un+UYktx/oiINFV6ZwA04RMa70v6emS8DXGDfGFpuKdJDrW8O7omX8nsE5HrolbOU0v/c80w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpavon\\Documents\\Steven Pavón\\projects\\crediLike\\back\\GenericApp\\generic.app.common.proxy\\generic.app.common.proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpavon\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpavon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpavon\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpavon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpavon\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpavon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

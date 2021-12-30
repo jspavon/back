@@ -1,0 +1,34 @@
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.deps.json
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\ref\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.common.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.Infrastructure.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.common.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.Infrastructure.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.AssemblyReference.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.AssemblyInfoInputs.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.AssemblyInfo.cs
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.CoreCompileInputs.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.CopyComplete
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\ref\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\million and up\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.deps.json
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\ref\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.applicationCore.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.common.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.Infrastructure.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.common.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\bin\Debug\net5.0\generic.app.Infrastructure.pdb
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.AssemblyReference.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.AssemblyInfoInputs.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.AssemblyInfo.cs
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.CoreCompileInputs.cache
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.csproj.CopyComplete
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\ref\generic.app.applicationCore.dll
+C:\Users\jpavon\Documents\Steven Pavón\projects\crediLike\back\GenericApp\generic.app.applicationCore\obj\Debug\net5.0\generic.app.applicationCore.pdb
